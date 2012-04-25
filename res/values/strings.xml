@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pr2 Joint Teleop</string>
+    <string name="arm_prompt">Arm Mode: </string>
+    <string-array name="planets_array">
+        <item>Individual</item>
+        <item>Mirror</item>
+    </string-array>
+</resources>
